@@ -12,7 +12,7 @@
 
 ### 1. Importancia de la Marca Digital (Sobre mí)
 
-Hola, Soy **Ethan Beltrán**, estudiante de primer año de la Licenciatura en Ciberseguridad en la **Universidad Tecnológica de Panamá (UTP)**, Centro Regional de Coclé.
+¡Hola! Soy **Ethan Beltrán**, estudiante de primer año de la Licenciatura en Ciberseguridad en la **Universidad Tecnológica de Panamá (UTP)**, Centro Regional de Coclé.
 
 Entiendo la marca personal no como un currículum estático, sino como la demostración activa de mi aprendizaje continuo, la ética profesional en el manejo de la información y la colaboración en entornos digitales. En ciberseguridad, la confianza y la reputación técnica se construyen con evidencia verificable; por eso este perfil funciona como mi diario de aprendizaje público.
 
