@@ -41,7 +41,7 @@ Como estudiante en etapa inicial, este portafolio evolutivo documenta mis avance
 #### Proyectos y Laboratorios Académicos (UTP):
 
 - **Configuración de Perfil Profesional y Marca Digital** Proyecto parcial evaluado en la asignatura Sistemas Colaborativos (UTP, 2026).
-- **Laboratorio de Redes: Subnetting IPv4 y VLAN** Diseño de direccionamiento, segmentación por VLAN y configuración en Cisco Packet Tracer. [Ver documentación publicada]
+- **Laboratorio de Redes: Subnetting IPv4 y VLAN** Diseño de direccionamiento, segmentación por VLAN y configuración en Cisco Packet Tracer. 
 - **Netrunner – Simulación de propagación de malware:** Proyecto grupal en Java que modela una red como grafo y simula la propagación de malware (Estructura de Datos, UTP 2026).
 - **Base de Firmas de Malware con Árbol Binario de Búsqueda:** Proyecto final grupal en Java para almacenar y buscar firmas de malware (Estructura de Datos, UTP 2026).
 - **Laboratorio de Simulación de Redes Seguras:** *(En desarrollo)* Captura y análisis de paquetes en redes locales con Wireshark.
